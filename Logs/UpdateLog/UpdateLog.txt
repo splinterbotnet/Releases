@@ -1,0 +1,7 @@
+1.541, https://github.com/splinterbotnet/Releases/blob/master/Version.1.541/binaries/Splinter_RAT_vrs_1.541_Without_Console.exe?raw=true, 201408030001
+1.540, https://github.com/splinterbotnet/Releases/blob/master/Version.1.540/binaries/Splinter_RAT_vrs_1.540_Without_Console.exe?raw=true, 201407020000
+1.531, https://github.com/splinterbotnet/Releases/blob/master/Version.1.531/binaries/Splinter_RAT_vrs_1.531_Without_Console.exe?raw=true, 201406160005
+1.53, https://github.com/splinterbotnet/Releases/blob/master/Version.1.53/binaries/Splinter_RAT_vrs_1.53_Without_Console.exe?raw=true, 201406160004
+1.51, https://github.com/splinterbotnet/Releases/blob/master/Version.1.51/binaries/Splinter_Without_Console.exe?raw=true, 201406160003
+1.42, https://github.com/splinterbotnet/Releases/blob/master/Version.1.42/binaries/Splinter_RAT.jar?raw=true, 201406160002
+1.41, https://github.com/splinterbotnet/Releases/blob/master/Version.1.41/binaries/Splinter_complete_no_console.exe?raw=true, 201406160001
